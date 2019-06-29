@@ -1,0 +1,762 @@
+[
+{
+		"date":"1",
+		"month":"1",
+		"year":"2018",
+		"color":"green",
+		"event":"New Year's Eve",
+		"location":"Aizawl,Chennai,Gangtok,Imphal,Shillong"
+},
+{
+		"date":"2",
+		"month":"1",
+		"year":"2018",
+		"color":"green",
+		"event":"New Year Celebration",
+		"location":"Aizawl"
+},
+{
+		"date":"5",
+		"month":"1",
+		"year":"2018",
+		"color":"green",
+		"event":"Guru Govind Singh’s Birthday",
+		"location":"Chandigarh"
+},
+{
+		"date":"11",
+		"month":"1",
+		"year":"2018",
+		"color":"green",
+		"event":"Missionary Day",
+		"location":"Aizawl"
+},
+{
+		"date":"12",
+		"month":"1",
+		"year":"2018",
+		"color":"green",
+		"event":"Birthday of Swami Vivekananda",
+		"location":"Kolkata"
+},
+{
+		"date":"15",
+		"month":"1",
+		"year":"2018",
+		"color":"green",
+		"event":"Makar Sankranti/Pongal",
+		"location":"Hyderabad,Chennai,Bengaluru"
+},
+{
+		"date":"16",
+		"month":"1",
+		"year":"2018",
+		"color":"green",
+		"event":"Uzhavar Thirunal",
+		"location":"Chennai"
+},
+{
+		"date":"17",
+		"month":"1",
+		"year":"2018",
+		"color":"green",
+		"event":"Sonam Lochhar",
+		"location":"Gangtok"
+},
+{
+		"date":"22",
+		"month":"1",
+		"year":"2018",
+		"color":"green",
+		"event":"Saraswati Puja/Basant Panchami",
+		"location":"Agartala,Bhubaneswar,Kolkata"
+},
+{
+		"date":"23",
+		"month":"1",
+		"year":"2018",
+		"color":"green",
+		"event":"Birthday of Netaji",
+		"location":"Agartala,Kolkata"
+},
+{
+		"date":"26",
+		"month":"1",
+		"year":"2018",
+		"color":"blue",
+		"event":"Republic Day",
+		"location":"All Regional Offices"
+},
+{
+		"date":"31",
+		"month":"1",
+		"year":"2018",
+		"color":"green",
+		"event":"Guru Ravidas’s Birthday",
+		"location":"Chandigarh,Shimla"
+},
+{
+		"date":"13",
+		"month":"2",
+		"year":"2018",
+		"color":"green",
+		"event":"Mahashivratri",
+		"location":"Ahmedabad,Belapur,Bengaluru,Dehradun,Hyderabad,Jammu,Kochi,Mumbai,Nagpur,Srinagar"
+},
+{
+		"date":"14",
+		"month":"2",
+		"year":"2018",
+		"color":"green",
+		"event":"Mahashivratri",
+		"location":"Bhopal,Bhubaneswar,Chandigarh,Kanpur,Lucknow,Raipur,Ranchi,Shimla"
+},
+{
+		"date":"15",
+		"month":"2",
+		"year":"2018",
+		"color":"green",
+		"event":"Lui Ngai-Ni",
+		"location":"Imphal"
+},
+{
+		"date":"16",
+		"month":"2",
+		"year":"2018",
+		"color":"green",
+		"event":"Losar",
+		"location":"Gangtok"
+},
+{
+		"date":"19",
+		"month":"2",
+		"year":"2018",
+		"color":"green",
+		"event":"Chhatrapati Shivaji Maharaj Jayanti",
+		"location":"Belapur,Mumbai,Nagpur"
+},
+{
+		"date":"20",
+		"month":"2",
+		"year":"2018",
+		"color":"green",
+		"event":"Mizoram State Day",
+		"location":"Aizawl"
+},
+{
+		"date":"1",
+		"month":"3",
+		"year":"2018",
+		"color":"green",
+		"event":"Holika Dahan/Holi/Doljatra",
+		"location":"Srinagar,Ranchi,Lucknow,Kanpur,Jammu,Hyderabad,Guwahati"
+},
+{
+		"date":"2",
+		"month":"3",
+		"year":"2018",
+		"color":"green",
+		"event":"Holi (Second Day)/Dol Jatra/Chapchar Kut/Dhulandi",
+		"location":"Shimla,Shillong,Ranchi,Raipur,Patna,Panaji,New Delhi,Nagpur,Mumbai,Lucknow,Kolkata,Kanpur,Jaipur,Gangtok,Dehradun,Chandigarh,Bhubaneswar,Bhopal,Belapur,Aizawl,Ahmedabad"
+},
+{
+		"date":"3",
+		"month":"3",
+		"year":"2018",
+		"color":"green",
+		"event":"Holi/Yaosang 2nd Day",
+		"location":"Patna,Imphal"
+},
+{
+		"date":"20",
+		"month":"3",
+		"year":"2018",
+		"color":"green",
+		"event":"Sarhul",
+		"location":"Ranchi"
+},
+{
+		"date":"21",
+		"month":"3",
+		"year":"2018",
+		"color":"green",
+		"event":"Birthday of Mohammad Hajarat Ali",
+		"location":"Lucknow,Kanpur"
+},
+{
+		"date":"22",
+		"month":"3",
+		"year":"2018",
+		"color":"green",
+		"event":"Bihar Divas",
+		"location":"Patna"
+},
+{
+		"date":"26",
+		"month":"3",
+		"year":"2018",
+		"color":"green",
+		"event":"Shri Rama Navami",
+		"location":"Gangtok,Hyderabad"
+},
+{
+		"date":"29",
+		"month":"3",
+		"year":"2018",
+		"color":"green",
+		"event":"Mahavir Jayanti",
+		"location":"Belapur,Bengaluru,Bhopal,Chandigarh,Chennai,Jaipur,Kanpur,Lucknow,Mumbai,Nagpur,New Delhi,Raipur,Ranchi"
+},
+{
+		"date":"30",
+		"month":"3",
+		"year":"2018",
+		"color":"blue",
+		"event":"Good Friday",
+		"location":"All Regional Offices"
+},
+{
+		"date":"31",
+		"month":"3",
+		"year":"2018",
+		"color":"yellow",
+		"event":"Annual closing of Accounts of Commercial and Co-operative Banks",
+		"location":"Agartala"
+},
+{
+		"date":"1",
+		"month":"4",
+		"year":"2018",
+		"color":"cyan",
+		"event":"Annual Closing",
+		"location":"All Regional Offices"
+},
+{
+		"date":"2",
+		"month":"4",
+		"year":"2018",
+		"color":"yellow",
+		"event":"Annual closing of Accounts of Commercial and Co-operative Banks",
+		"location":"Thiruvananthapuram,Shimla,Raipur,New Delhi,Kochi,Bhubaneswar,Bhopal"
+},
+{
+		"date":"5",
+		"month":"4",
+		"year":"2018",
+		"color":"green",
+		"event":"Babu Jagjivan Ram’s Birthday",
+		"location":"Hyderabad"
+},
+{
+		"date":"14",
+		"month":"4",
+		"year":"2018",
+		"color":"green",
+		"event":"Dr. Baba Saheb Ambedkar’s Birthday/Tamil New Year’s Day/Bohag Bihu/Cheiraoba/Baisakhi",
+		"location":"Thiruvananthapuram,Srinagar,Ranchi,Patna,Panaji,Nagpur,Mumbai,Lucknow,Kolkata,Kochi,Kanpur,Jammu,Jaipur,Imphal,Hyderabad,Guwahati,Gangtok,Dehradun,Chennai,Belapur"
+},
+{
+		"date":"18",
+		"month":"4",
+		"year":"2018",
+		"color":"green",
+		"event":"Basava Jayanthi",
+		"location":"Bengaluru"
+},
+{
+		"date":"21",
+		"month":"4",
+		"year":"2018",
+		"color":"green",
+		"event":"Garia Puja",
+		"location":"Agartala"
+},
+{
+		"date":"30",
+		"month":"4",
+		"year":"2018",
+		"color":"green",
+		"event":"Buddha Pournima",
+		"location":"Aizawl,Belapur,Bhopal,Dehradun,Jammu,Kanpur,Kolkata,Lucknow,Mumbai,Nagpur,New Delhi,Raipur,Ranchi,Shimla,Srinagar"
+},
+{
+		"date":"1",
+		"month":"5",
+		"year":"2018",
+		"color":"green",
+		"event":"Maharashtra Din/May Day",
+		"location":"Agartala,Belapur,Bengaluru,Chennai,Guwahati,Hyderabad,Imphal,Kochi,Kolkata,Mumbai,Nagpur,Panaji,Patna,Thiruvananthapuram"
+},
+{
+		"date":"9",
+		"month":"5",
+		"year":"2018",
+		"color":"green",
+		"event":"Birthday of Rabindranath Tagore",
+		"location":"Kolkata"
+},
+{
+		"date":"16",
+		"month":"5",
+		"year":"2018",
+		"color":"green",
+		"event":"State Day",
+		"location":"Gangtok"
+},
+{
+		"date":"19",
+		"month":"5",
+		"year":"2018",
+		"color":"green",
+		"event":"Saga Dawa",
+		"location":"Gangtok"
+},
+{
+		"date":"8",
+		"month":"6",
+		"year":"2018",
+		"color":"green",
+		"event":"Jumat-ul-Veda",
+		"location":"Jammu,Srinagar"
+},
+{
+		"date":"11",
+		"month":"6",
+		"year":"2018",
+		"color":"green",
+		"event":"Shab-I-Qadr",
+		"location":"Jammu,Srinagar"
+},
+{
+		"date":"15",
+		"month":"6",
+		"year":"2018",
+		"color":"green",
+		"event":"Id-ul-Fitr (Ramzan)/Raja Sankranti/Y.M.A Day",
+		"location":"Aizawl,Bhubaneswar,Chennai,Dehradun,Jammu,Kochi,Srinagar,Thiruvananthapuram"
+},
+{
+		"date":"16",
+		"month":"6",
+		"year":"2018",
+		"color":"green",
+		"event":"Ramzan Id (Id-ul-Fitr)/Maharana Pratap Jayanti",
+		"location":"Agartala,Ahmedabad,Belapur,Bengaluru,Bhopal,Bhubaneswar,Gangtok,Guwahati,Hyderabad,Imphal,Jaipur,Kanpur,Kolkata,Lucknow,Mumbai,Nagpur,New Delhi,Panaji,Patna,Raipur,Ranchi,Shillong,Shimla"
+},
+{
+		"date":"30",
+		"month":"6",
+		"year":"2018",
+		"color":"green",
+		"event":"Remna Ni",
+		"location":"Aizawl"
+},
+{
+		"date":"2",
+		"month":"7",
+		"year":"2018",
+		"color":"cyan",
+		"event":"Annual Closing of RBI",
+		"location":"All Regional Offices"
+},
+{
+		"date":"3",
+		"month":"7",
+		"year":"2018",
+		"color":"green",
+		"event":"Beh Dienkhlam",
+		"location":"Shillong"
+},
+{
+		"date":"5",
+		"month":"7",
+		"year":"2018",
+		"color":"green",
+		"event":"Guru Hargobindji’s Birthday",
+		"location":"Srinagar,Jammu"
+},
+{
+		"date":"13",
+		"month":"7",
+		"year":"2018",
+		"color":"green",
+		"event":"Bhanu Jayanti/Martyr’s Day",
+		"location":"Gangtok,Jammu,Srinagar"
+},
+{
+		"date":"17",
+		"month":"7",
+		"year":"2018",
+		"color":"green",
+		"event":"U Tirot Sing Day",
+		"location":"Shillong"
+},
+{
+		"date":"20",
+		"month":"7",
+		"year":"2018",
+		"color":"green",
+		"event":"Kharchi Puja",
+		"location":"Agartala"
+},
+{
+		"date":"4",
+		"month":"8",
+		"year":"2018",
+		"color":"green",
+		"event":"Ker Puja",
+		"location":"Agartala"
+},
+{
+		"date":"13",
+		"month":"8",
+		"year":"2018",
+		"color":"green",
+		"event":"Patriots’ Day",
+		"location":"Imphal"
+},
+{
+		"date":"15",
+		"month":"8",
+		"year":"2018",
+		"color":"blue",
+		"event":"Independence Day",
+		"location":"All Regional Offices"
+},
+{
+		"date":"17",
+		"month":"8",
+		"year":"2018",
+		"color":"green",
+		"event":"Parsi New Year (Shahenshahi)",
+		"location":"Nagpur,Mumbai,Belapur,Ahmedabad"
+},
+{
+		"date":"22",
+		"month":"8",
+		"year":"2018",
+		"color":"blue",
+		"event":"Bakri Id (Id-ul-Zuha)",
+		"location":"All Regional Offices"
+},
+{
+		"date":"23",
+		"month":"8",
+		"year":"2018",
+		"color":"green",
+		"event":"Bakri Id (Id-ul-Zuha)",
+		"location":"Srinagar,Jammu"
+},
+{
+		"date":"24",
+		"month":"8",
+		"year":"2018",
+		"color":"green",
+		"event":"First Onam",
+		"location":"Thiruvananthapuram,Kochi"
+},
+{
+		"date":"25",
+		"month":"8",
+		"year":"2018",
+		"color":"green",
+		"event":"Thiruvonam",
+		"location":"Thiruvananthapuram,Kochi"
+},
+{
+		"date":"27",
+		"month":"8",
+		"year":"2018",
+		"color":"green",
+		"event":"Sree Narayana Guru Jayanthi",
+		"location":"Thiruvananthapuram,Kochi"
+},
+{
+		"date":"3",
+		"month":"9",
+		"year":"2018",
+		"color":"green",
+		"event":"Krishna Jayanthi/Janmashtmi",
+		"location":"Ahmedabad,Bhopal,Chandigarh,Dehradun,Gangtok,Hyderabad,Jaipur,Jammu,Kanpur,Lucknow,Patna,Raipur,Ranchi,Shillong,Shimla,Srinagar"
+},
+{
+		"date":"13",
+		"month":"9",
+		"year":"2018",
+		"color":"green",
+		"event":"Ganesh Chaturthi/Vinayakar Chathurthi/Samvantsari/Varasiddhi Vinayaka Vrata",
+		"location":"Ahmedabad,Belapur,Bengaluru,Bhubaneswar,Chennai,Hyderabad,Mumbai,Nagpur,Panaji"
+},
+{
+		"date":"14",
+		"month":"9",
+		"year":"2018",
+		"color":"green",
+		"event":"Ganesh Chaturthi (2nd day)/Nuakhai",
+		"location":"Bhubaneswar,Panaji"
+},
+{
+		"date":"20",
+		"month":"9",
+		"year":"2018",
+		"color":"green",
+		"event":"Moharram/Karma Puja",
+		"location":"Belapur,Mumbai,Nagpur,Ranchi"
+},
+{
+		"date":"21",
+		"month":"9",
+		"year":"2018",
+		"color":"green",
+		"event":"Moharram/Ashoora/Sree Narayana Guru Samadhi Day",
+		"location":"Agartala,Ahmedabad,Bengaluru,Bhubaneswar,Chennai,Hyderabad,Jaipur,Jammu,Kanpur,Kochi,Kolkata,Lucknow,New Delhi,Patna,Raipur,Ranchi,Shimla,Srinagar,Thiruvananthapuram"
+},
+{
+		"date":"2",
+		"month":"10",
+		"year":"2018",
+		"color":"cyan",
+		"event":"Mahatma Gandhi Jayanti",
+		"location":"All Regional Offices"
+},
+{
+		"date":"8",
+		"month":"10",
+		"year":"2018",
+		"color":"green",
+		"event":"Mahalaya Amavasye",
+		"location":"Agartala,Bengaluru,Kolkata"
+},
+{
+		"date":"16",
+		"month":"10",
+		"year":"2018",
+		"color":"green",
+		"event":"Durga Puja (Mahasaptami)",
+		"location":"Agartala,Gangtok,Kolkata"
+},
+{
+		"date":"17",
+		"month":"10",
+		"year":"2018",
+		"color":"green",
+		"event":"Durga Puja (Mahastami)",
+		"location":"Agartala,Gangtok,Bhubaneswar,Kolkata,Guwahati,Hyderabad,Imphal,Ranchi"
+},
+{
+		"date":"18",
+		"month":"10",
+		"year":"2018",
+		"color":"green",
+		"event":"Durga Puja/Ayudhapooja/Dussehra (Mahanavami/Vijaya Dashmi)",
+		"location":"Agartala,Ahmedabad,Aizawl,Belapur,Bengaluru,Chennai,Guwahati,Hyderabad,Jammu,Kanpur,Kochi,Kolkata,Lucknow,Mumbai,Nagpur,Panaji,Patna,Ranchi,Srinagar,Thiruvananthapuram"
+},
+{
+		"date":"19",
+		"month":"10",
+		"year":"2018",
+		"color":"green",
+		"event":"DDurga Puja/Dussehra (Vijaya Dashmi)/Kati Bihu",
+		"location":"Agartala,Aizawl,Bengaluru,Bhopal,Bhubaneswar,Chandigarh,Chennai,Dehradun,Gangtok,Guwahati,Jaipur,Kanpur,Kochi,Kolkata,Lucknow,New Delhi,Patna,Raipur,Ranchi,Shillong,Shimla,Thiruvananthapuram"
+},
+{
+		"date":"24",
+		"month":"10",
+		"year":"2018",
+		"color":"green",
+		"event":"Lakshmi Puja/Maharshi Valmiki Jayanthi",
+		"location":"Agartala,Bengaluru,Kolkata"
+},
+{
+		"date":"27",
+		"month":"10",
+		"year":"2018",
+		"color":"green",
+		"event":"Karva Chauth",
+		"location":"Shimla"
+},
+{
+		"date":"31",
+		"month":"10",
+		"year":"2018",
+		"color":"green",
+		"event":"Lhabab Duechen",
+		"location":"Gangtok"
+},
+{
+		"date":"1",
+		"month":"11",
+		"year":"2018",
+		"color":"green",
+		"event":"Kannada Rajyostsava/Kut",
+		"location":"Bengaluru,Imphal"
+},
+{
+		"date":"6",
+		"month":"11",
+		"year":"2018",
+		"color":"green",
+		"event":"Kali Puja/Diwali/Naraka Chaturdashi",
+		"location":"Bengaluru,Chennai,Guwahati,Kochi,Kolkata,Thiruvananthapuram"
+},
+{
+		"date":"7",
+		"month":"11",
+		"year":"2018",
+		"color":"green",
+		"event":"Diwali Amavasaya (Laxmi Pujan)",
+		"location":"Agartala,Ahmedabad,Aizawl,Belapur,Bhopal,Bhubaneswar,Chandigarh,Dehradun,Gangtok,Hyderabad,Imphal,Jaipur,Jammu,Kanpur,Lucknow,Mumbai,Nagpur,New Delhi,Panaji,Patna,Raipur,Ranchi,Shillong,Shimla,Srinagar"
+},
+{
+		"date":"8",
+		"month":"11",
+		"year":"2018",
+		"color":"green",
+		"event":"Diwali (Balipratipada)/Goverdhan Puja/Vikram Samvant New Year Day",
+		"location":"Ahmedabad,Belapur,Bengaluru,Jaipur,Kanpur,Lucknow,Mumbai,Nagpur"
+},
+{
+		"date":"9",
+		"month":"11",
+		"year":"2018",
+		"color":"green",
+		"event":"Bhai Duj/Wangala Festival/Bhai Tika/Ningol Chakkouba/Chitragupt Jayanti",
+		"location":"Gangtok,Imphal,Kanpur,Lucknow,Shillong,Shimla"
+},
+{
+		"date":"13",
+		"month":"11",
+		"year":"2018",
+		"color":"green",
+		"event":"Chath (Evening Ardhya)",
+		"location":"Patna,Ranchi"
+},
+{
+		"date":"14",
+		"month":"11",
+		"year":"2018",
+		"color":"green",
+		"event":"Chhath Puja",
+		"location":"Patna"
+},
+{
+		"date":"20",
+		"month":"11",
+		"year":"2018",
+		"color":"green",
+		"event":"Milad-i-Sherif (Birthday of Prophet Muhammed)",
+		"location":"Kochi,Thiruvananthapuram"
+},
+{
+		"date":"21",
+		"month":"11",
+		"year":"2018",
+		"color":"green",
+		"event":"Eid Milad-un-Nabi/Eid-e- Milad (Prophet Mohhammad’s Birthday)/Barawafat",
+		"location":"Ahmedabad,Belapur,Bengaluru,Bhopal,Chennai,Dehradun,Hyderabad,Jammu,Kanpur,Lucknow,Mumbai,Nagpur,New Delhi,Raipur,Ranchi,Srinagar"
+},
+{
+		"date":"23",
+		"month":"11",
+		"year":"2018",
+		"color":"green",
+		"event":"Guru Nanak Jayanti/Kartika Purnima/Seng Kut Snem",
+		"location":"Belapur,Chandigarh,Dehradun,Guwahati,Hyderabad,Jaipur,Jammu,Kanpur,Kolkata,Lucknow,Mumbai,Nagpur,New Delhi,Raipur,Ranchi,Shillong,Shimla,Srinagar"
+},
+{
+		"date":"26",
+		"month":"11",
+		"year":"2018",
+		"color":"green",
+		"event":"Kanakadasa Jayanthi",
+		"location":"Bengaluru"
+},
+{
+		"date":"3",
+		"month":"12",
+		"year":"2018",
+		"color":"green",
+		"event":"Feast of St.Francis Xavier",
+		"location":"Panaji"
+},
+{
+		"date":"5",
+		"month":"12",
+		"year":"2018",
+		"color":"green",
+		"event":"Birthday of Sheikh Mohammad Abdullah",
+		"location":"Srinagar,Jammu"
+},
+{
+		"date":"10",
+		"month":"12",
+		"year":"2018",
+		"color":"green",
+		"event":"Losoong/Namsoong",
+		"location":"Gangtok"
+},
+{
+		"date":"11",
+		"month":"12",
+		"year":"2018",
+		"color":"green",
+		"event":"Losoong/Namsoong",
+		"location":"Gangtok"
+},
+{
+		"date":"12",
+		"month":"12",
+		"year":"2018",
+		"color":"green",
+		"event":"Pa-Togan Nengminza Sangma",
+		"location":"Shillong"
+},
+{
+		"date":"18",
+		"month":"12",
+		"year":"2018",
+		"color":"green",
+		"event":"Death Anniversary of U SoSo Tham",
+		"location":"Shillong"
+},
+{
+		"date":"19",
+		"month":"12",
+		"year":"2018",
+		"color":"green",
+		"event":"Goa Liberation Day",
+		"location":"Panaji"
+},
+{
+		"date":"24",
+		"month":"12",
+		"year":"2018",
+		"color":"green",
+		"event":"Christmas Festival",
+		"location":"Shillong"
+},
+{
+		"date":"25",
+		"month":"12",
+		"year":"2018",
+		"color":"blue",
+		"event":"Christmas",
+		"location":"All Regional Offices"
+},
+{
+		"date":"26",
+		"month":"12",
+		"year":"2018",
+		"color":"green",
+		"event":"Christmas Festival",
+		"location":"Shillong"
+},
+{
+		"date":"30",
+		"month":"12",
+		"year":"2018",
+		"color":"green",
+		"event":"U Kiang Nangbah",
+		"location":"Shillong"
+}
+]

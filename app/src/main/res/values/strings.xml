@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Bank Holidays 2018</string>
+    <string name="todo">TODO</string>
+    <string-array name="location">
+        <item>All Regional Offices</item>
+        <item>Agartala</item>
+        <item>Ahemedabad</item>
+        <item>Aizawl</item>
+        <item>Belapur</item>
+        <item>Bengaluru</item>
+        <item>Bhopal</item>
+        <item>Bhubaneswar</item>
+        <item>Chandigarh</item>
+        <item>Chennai</item>
+        <item>Dehradun</item>
+        <item>Gangtok</item>
+        <item>Guwahati</item>
+        <item>Hyderabad</item>
+        <item>Imphal</item>
+        <item>Jaipur</item>
+        <item>Jammu</item>
+        <item>Kanpur</item>
+        <item>Kochi</item>
+        <item>Kolkata</item>
+        <item>Lucknow</item>
+        <item>Mumbai</item>
+        <item>Nagpur</item>
+        <item>New Delhi</item>
+        <item>Panaji</item>
+        <item>Patna</item>
+        <item>Raipur</item>
+        <item>Ranchi</item>
+        <item>Shillong</item>
+        <item>Shimla</item>
+        <item>Srinagar</item>
+        <item>Thiruvananthapuram</item>
+    </string-array>
+</resources>

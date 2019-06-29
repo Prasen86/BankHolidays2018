@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.widget.RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/Black"
+    tools:context="com.solutions.rhythm.bankholidays2018.HolidayPage">
+
+
+        <Spinner
+        android:id="@+id/spinnerLocation"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+            style="@style/MyTextAppearance"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_margin="20dp"
+            android:background="@drawable/bg_spinner"
+            android:entries="@array/location"
+            android:padding="10dp"
+         />
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/bg_calendar"
+    android:layout_below="@+id/spinnerLocation"
+    android:layout_marginLeft="20dp"
+    android:layout_marginRight="20dp"
+    android:id="@+id/linearLayout">
+
+    <com.prolificinteractive.materialcalendarview.MaterialCalendarView
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/calendarView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        app:mcv_headerTextAppearance="@style/MyHeaderAppearance"
+        app:mcv_weekDayTextAppearance="@style/MyWeekAppearance"
+        app:mcv_dateTextAppearance="@style/MyTextAppearance"
+        app:mcv_showOtherDates=""
+        app:mcv_selectionColor="@color/colorPrimary"
+        android:theme="@style/Platform.ThemeOverlay.AppCompat.Dark"
+        />
+
+</LinearLayout>
+
+    <TextView
+        android:id="@+id/eventTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/linearLayout"
+        style="@style/MyEventAppearance"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="5dp"
+        android:padding="5dp"
+        android:background="@drawable/bg_event"
+        android:gravity="center_horizontal"
+        android:text="Click the dots to find the holidays..."/>
+
+    <TextView
+        android:id="@+id/holidayTypeTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/eventTextView"
+        style="@style/MyEventAppearance"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="5dp"
+        android:padding="5dp"
+        android:background="@drawable/bg_event"
+        android:gravity="center_horizontal"
+        android:text="Click the dots to find the holidays..."/>
+
+    <ProgressBar
+        android:id="@+id/progressBar"
+        style="?android:attr/progressBarStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/linearLayout"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="5dp"
+        android:padding="10dp"
+        android:layout_centerHorizontal="true" />
+
+
+    <com.google.android.gms.ads.AdView
+        xmlns:ads="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/adView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentBottom="true"
+        ads:adSize="BANNER"
+        ads:adUnitId="ca-app-pub-9529062142998244/1208609276">
+    </com.google.android.gms.ads.AdView>
+
+
+</android.widget.RelativeLayout>

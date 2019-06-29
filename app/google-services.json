@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "714495321541",
+    "firebase_url": "https://bankholidays2018.firebaseio.com",
+    "project_id": "bankholidays2018",
+    "storage_bucket": "bankholidays2018.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714495321541:android:c6b9b6fc1aedd375",
+        "android_client_info": {
+          "package_name": "com.solutions.rhythm.bankholidays2018"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "714495321541-8j8qnncthg3a1l3fkc9d9cemdsb25bfr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxMz5-8mUgYHgfxTDw9HsAVXgih1L9VZI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
